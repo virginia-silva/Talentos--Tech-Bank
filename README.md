@@ -1,2 +1,2 @@
-# Talentos--Tech-Bank
+# Talentos-Tech-Bank
 Repositório do programa 
