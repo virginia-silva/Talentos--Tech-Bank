@@ -2,7 +2,7 @@ package dia1;
 
 import java.util.Scanner;
 
-public class Exercicios1 {
+public class Exercicios {
 
     public static void exercicio1() {
         // 1. Escreva um algoritmo que armazene o valor 99 em uma variável Y e o valor 11 em uma variável Z.
@@ -15,7 +15,7 @@ public class Exercicios1 {
 
 
         // short resultado = (short) (y - z);
-        // TODO Pesquisar mais sobre arithmetic entre shorts
+        // Pesquisar mais sobre arithmetic entre shorts
 
         System.out.printf("O valor da variável y antes da troca é = %d\n", y);
         System.out.printf("O valor da variável Z antes da troca é = %d\n", z);
@@ -35,7 +35,7 @@ public class Exercicios1 {
         int valor = in.nextInt();
 
         // int antecessor = valor - 1;
-        // TODO tratar erros de inputs diferentes de inteiros
+        // tratar erros de inputs diferentes de inteiros
 
         System.out.println("O Antecessor de " + valor + " é: " + --valor);
         System.out.println(valor);
@@ -65,6 +65,12 @@ public class Exercicios1 {
         Scanner in = new Scanner(System.in);
 
         System.out.println("Digite o total de votos brancos");
+
+        if (!in.hasNextInt()) {
+            System.out.println("Você não digitou um valor válido, encerrando o programa...");
+            System.exit(1);
+        }
+
         double totalDeVotosBrancos = in.nextInt();
 
         System.out.println("Digite o total de votos nulos");
@@ -89,6 +95,7 @@ public class Exercicios1 {
         percentualVotosNulos = totalDeVotosNulos * 100 / totalDeVotos;
         percentualVotosValidos = totalDeVotosValidos * 100 / totalDeVotos;
 
+
         System.out.println("----");
         System.out.println("O percentual total de votos em branco é: " + percentualVotosBrancos + "%");
         System.out.println("O percentual total de votos nulos é: " + percentualVotosNulos + "%");
@@ -102,4 +109,5 @@ public class Exercicios1 {
         exercicio4();
 
     }
+
 }
