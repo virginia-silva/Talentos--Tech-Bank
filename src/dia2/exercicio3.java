@@ -1,6 +1,7 @@
 package dia2;
 
-//Escreva um algoritmo em Java que leia dois números inteiros e determine qual é o menor. Escreva um algoritmo que determina o maior também.
+//Escreva um algoritmo em Java que leia dois números inteiros e determine qual é o menor.
+// Escreva um algoritmo que determina o maior também.
 
 import java.util.Scanner;
 
@@ -9,7 +10,7 @@ public class exercicio3 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner (System.in);
-        int valor[] = new int[4];
+        int valor[] = new int[2];
         int maior = 0, menor = 0;
 
         for(int i = 0; i < valor.length; i++){

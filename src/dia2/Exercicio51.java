@@ -1,5 +1,11 @@
 package dia2;
 
+//Escreva um algoritmo em Java que seja capaz de fazer as seguintes operações matemáticas
+// (adição, subtração, multiplicação e divisão). Todas as operações serão entre dois valores. No começo do
+//algoritmo pergunte ao usuário qual operação ele deseja fazer e quais são os valores.
+
+import javax.swing.*;
+
 import java.util.Scanner;
 
 public class Exercicio51 {
