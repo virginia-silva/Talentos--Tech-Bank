@@ -20,6 +20,7 @@ public class exercicio3 {
                 maior = valor[i];
             }
         }
+
         for (int j = 0; j < valor.length; j++) {
             if(valor[j] < menor){
                 menor = valor[j];

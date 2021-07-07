@@ -15,6 +15,7 @@ public class exercicio5 {
         Scanner sc = new Scanner(System.in);
 
         int forca = 1, vencer = 0, perder = 0, contador = 0;
+
         // Nesse caso o array não precisa ter o tamanho de 100, já que a pessoa se perder for = 5 ele perde e
         // se vencer = 5, ele ganha, pode ser 10 para melhorar a performace dofor criado abaixo, nesse caso vamos deixar
         // com tamanho 20 no caso da pessoa digitar a mesma letra algumas vezes.
@@ -52,11 +53,12 @@ public class exercicio5 {
                     }
                 }
                 if (perder == 5) {
-                    System.out.println("Você perdeu.");
+                    System.out.println("Você perdeu!!!!! :( ");
                     System.exit(0);
                 } else if (vencer == 5) {
-                    System.out.println("Voce venceu.");
-                    System.out.println("A palavra é Chave");
+                    System.out.println("Você venceu !!! :) ");
+                    System.out.println("A palavra é Chave !!!! ");
+
                 }
             }
         }
