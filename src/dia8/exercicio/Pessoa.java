@@ -1,4 +1,4 @@
-package dia8;
+package dia8.exercicio;
 
 public class Pessoa {
 

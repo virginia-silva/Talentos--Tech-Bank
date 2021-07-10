@@ -1,4 +1,4 @@
-package dia8;
+package dia8.exercicio;
 
 import java.util.Scanner;
 import java.util.Vector;
@@ -23,13 +23,13 @@ public class Agenda {
     @SuppressWarnings("unchecked")
     public static void set_armazenaPessoa(int i) {
         Scanner in_teclado;
-        System.out.println("Digite o nome da " + (i + 1) + "  pessoa");
+        System.out.println("Digite o nome da " + (i + 1) + "  pessoa:");
         in_teclado = new Scanner(System.in);
         agend_nomes = in_teclado.nextLine();
-        System.out.println("Digite a idade da " + (i + 1) + " pessoa");
+        System.out.println("Digite a idade da " + (i + 1) + " pessoa:");
         in_teclado = new Scanner(System.in);
         agend_idade = in_teclado.nextInt();
-        System.out.println("Digite a altura da " + (i + 1) + " pessoa");
+        System.out.println("Digite a altura da " + (i + 1) + " pessoa:");
         in_teclado = new Scanner(System.in);
         String altura = in_teclado.nextLine();
         agend_altura = Double.parseDouble(altura);
@@ -76,7 +76,7 @@ public class Agenda {
         String nome;
 
         //inicializacao de objectos e identificadores
-        System.out.println("Quantas pessoas desejas cadastrar? \n total de cadastro: ");
+        System.out.println("Quantas pessoas deseja cadastrar? \n Total de cadastro: ");
         Scanner in_teclado = new Scanner(System.in);
         qtdade_pessoas = in_teclado.nextInt();
         ag.quantidade_de_pessoa(qtdade_pessoas);
@@ -92,14 +92,14 @@ public class Agenda {
         }
 
         //intrucoes de busca de uma pessoa na lista de cadastro
-        System.out.println("Digite o nome da pessoa que procuras");
+        System.out.println("Digite o nome da pessoa que procura:");
         in_teclado = new Scanner(System.in);
         nome = in_teclado.nextLine();
         int position = Agenda.buscaPessoa(nome);
         if (position >= 0) {
             System.out.println("O " + nome + " se encontra na posisao: " + (position + 1));
         } else {
-            System.out.println("o nome desejado nao esta nesta lista");
+            System.out.println("o nome desejado não esta nesta lista!");
         }
 
         // imprime os dados da pessoa que está na  posição “i” da agenda.
