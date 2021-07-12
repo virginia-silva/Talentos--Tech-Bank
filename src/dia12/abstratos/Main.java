@@ -1,4 +1,3 @@
-
 package dia12.abstratos;
 
 import java.util.ArrayList;
@@ -22,7 +21,6 @@ public class Main {
         empregados.add(new PorItem("Beatriz Rodrigues", 40, 180));
         empregados.add(new PorHora("Bruno Souza", 80, 300));
         empregados.add(new PorHora("Aretha Martins", 120, 300));
-
 
 
         mostrarValorAPagar(empregados);

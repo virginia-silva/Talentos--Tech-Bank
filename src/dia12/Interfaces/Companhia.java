@@ -1,4 +1,4 @@
-package dia12.Interfaces;
+package dia12.interfaces;
 
 public interface Companhia {
 }

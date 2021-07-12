@@ -1,4 +1,9 @@
-package dia12.Heranca;
+package dia12.heranca;
 
-public class CarroUmPontoZero {
+public class CarroUmPontoZero extends Carro {
+
+    CarroUmPontoZero() {
+        this.motor = "Motor 1.0";
+    }
+
 }

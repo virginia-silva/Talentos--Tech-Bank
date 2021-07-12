@@ -1,11 +1,9 @@
-package dia12.Sobreposicao;
+package dia12.sobreposicao;
 
-public class Pato extends Ave{
-
-    //alt + insert
+public class Pato extends Ave {
 
     @Override
     public void canta() {
-        System.out.println("qué qué");
+        System.out.println("quack quack");
     }
 }

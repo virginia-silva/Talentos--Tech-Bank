@@ -1,9 +1,17 @@
 package dia12.sobreposicao;
 
-public class Pato extends Ave {
+public class Main {
 
-    @Override
-    public void canta() {
-        System.out.println("quack quack");
+    public static void main(String[] args) {
+        Ave pato = new Pato();
+
+        Ave pintinho = new Pintinho();
+
+        Ave bemTeVi = new BemTeVi();
+
+        pato.canta();
+        pintinho.canta();
+        bemTeVi.canta();
+
     }
 }

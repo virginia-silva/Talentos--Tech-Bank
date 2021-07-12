@@ -1,4 +1,4 @@
-package dia12.Heranca;
+package dia12.heranca;
 
 public class Carro {
 
@@ -7,6 +7,5 @@ public class Carro {
     public int bancos = 5;
 
     public String motor = "Modelo Padrão";
-
 
 }

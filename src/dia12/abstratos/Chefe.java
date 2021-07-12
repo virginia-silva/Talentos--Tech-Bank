@@ -1,6 +1,6 @@
 package dia12.abstratos;
 
-public final class Chefe extends Empregado{
+public final class Chefe extends Empregado {
 
     private double salario;
 

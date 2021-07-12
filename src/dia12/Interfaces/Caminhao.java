@@ -1,4 +1,6 @@
-package dia12.Interfaces;
+package dia12.interfaces;
 
-public class Caminhao {
+
+// TODO casos de multiplas interfaces
+public class Caminhao implements Veiculo, Companhia {
 }

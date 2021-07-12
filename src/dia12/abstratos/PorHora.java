@@ -1,7 +1,5 @@
 package dia12.abstratos;
 
-import java.util.List;
-
 public final class PorHora extends Empregado {
 
     private double valor;
