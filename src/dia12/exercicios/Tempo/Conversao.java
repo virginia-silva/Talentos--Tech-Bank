@@ -6,41 +6,16 @@ public class Conversao {
 
     public static void main(String[] args) {
 
-        Scanner input = new Scanner(System.in);
-
-        System.out.println("Digite o Valor desejado :");
-
-        int totalSegundos = input.nextInt();
-
-        int qtdAno = totalSegundos / 29030400;
-        totalSegundos = totalSegundos % 29030400;
-
-        int qtdMes = totalSegundos / 2419200;
-        totalSegundos = totalSegundos % 2419200;
-
-        int qtdSemana = totalSegundos / 604800;
-        totalSegundos = totalSegundos % 604800;
-
-        int qtdDias = totalSegundos/ 86400;
-        totalSegundos = totalSegundos % 86400;
-
-        int qtdHoras = totalSegundos / 3600;
-        totalSegundos = totalSegundos % 3600;
-
-        int qtdMinutos = totalSegundos / 60;
-        totalSegundos= totalSegundos % 60;
-
-        int qtdSegundos = totalSegundos;
-
-        System.out.println("A quantidade de Anos é : " + " " + qtdSegundos);
-        System.out.println("A quantidade de meses é : " + " " + qtdSegundos);
-        System.out.println("A quantidade de semanas é : " + " " + qtdSegundos);
-        System.out.println("A quantidade de dias é : " + " " + qtdSegundos);
-        System.out.println("A quantidade de horas é : " + " " + qtdHoras);
-        System.out.println("A quantidade de minutos é : " + " " + qtdMinutos);
-        System.out.println("A quantidade de segundos é : " + " " + qtdSegundos);
-
-
-        input.close();
+        {
+            Scanner in = new Scanner(System.in);
+            System.out.print("Input seconds: ");
+            int seconds = in.nextInt();
+            int p1 = seconds % 60;
+            int p2 = seconds / 60;
+            int p3 = p2 % 60;
+            p2 = p2 / 60;
+            System.out.print(p2 + ":" + p3 + ":" + p1);
+            System.out.print("\n");
+        }
     }
-    }
+}
