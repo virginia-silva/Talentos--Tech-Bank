@@ -13,7 +13,9 @@ import java.util.stream.Collectors;
 
 public class ServicosDaConta {
 
-
+    // public significa método estará visivel nas outras classes de outros pacotes.
+    // static significa que o método não esta anexado a uma instancia especifica.
+    // void é um tipo de retorno.
     public static void encerrarContaBancaria(Integer numConta){
         ContaBancaria conta = ServicosDaConta.encontrarContaBancaria(numConta);
         if(conta.getClass().equals(ContaCorrente.class)){
