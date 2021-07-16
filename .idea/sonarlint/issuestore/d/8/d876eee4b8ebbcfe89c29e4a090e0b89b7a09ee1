@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±ÿÂ³úÿÿÿÿ
+?
+java:S1659"$Declare "nTotal" on a separate line.(ªæ’ºüÿÿÿÿ
+?
+java:S1659"$Declare "nCapac" on a separate line.(ªæ’ºüÿÿÿÿ
+A
+java:S1659"&Declare "nPessoas" on a separate line.(ªæ’ºüÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(ÔúãÎ8Ž½ø†©/
+c	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ë°Æ
+c	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽÅÔí
+h	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿã®œÿÿÿÿÿ
+h	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯éÝ‡üÿÿÿÿ
+c	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ï„è

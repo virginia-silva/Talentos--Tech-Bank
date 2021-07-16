@@ -1,0 +1,129 @@
+
+”
+java:S1319?"rThe return type of this method should be an interface such as "Deque" rather than the implementation "ArrayDeque".(ù‚Ëİùÿÿÿÿ8áÔ‘å©/
+
+java:S1319d"rThe return type of this method should be an interface such as "Deque" rather than the implementation "ArrayDeque".(À¤š¡8ãÔ‘å©/
+
+java:S1319d"rThe type of the "infix" object should be an interface such as "Deque" rather than the implementation "ArrayDeque".(À¤š¡8åÔ‘å©/
+—
+java:S1319¥"tThe type of the "postfix" object should be an interface such as "Deque" rather than the implementation "ArrayDeque".(ğ•àÖüÿÿÿÿ8çÔ‘å©/
+Q
+java:S3740$"/Provide the parametrized type for this generic.(¿Á½äüÿÿÿÿ8ìÔ‘å©/
+L
+java:S3740d"/Provide the parametrized type for this generic.(À¤š¡8íÔ‘å©/
+d
+java:S1192J"GDefine a constant instead of duplicating this literal "NUMBER" 4 times.(ş™Šœ8úÔ‘å©/
+k
+java:S1192M"IDefine a constant instead of duplicating this literal "OPERATOR" 7 times.(åÛòãÿÿÿÿÿ8ûÔ‘å©/
+D
+java:S2189!""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Õ‘å©/
+u	java:S135I"YReduce the total number of break and continue statements in this loop to use at most one.(˜¢«©8˜Õ‘å©/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨Í©Ñÿÿÿÿÿ
+r
+java:S11040"PMake type a static final constant or non-public and provide accessors if needed.(ÙşÓ¼ûÿÿÿÿ8¡Õ‘å©/
+m
+java:S11041"PMake data a static final constant or non-public and provide accessors if needed.(¥²š‘8¢Õ‘å©/
+[
+java:S4973j"9Use the "equals" method if value comparison was intended.(×…€ãıÿÿÿÿ8°Õ‘å©/
+[
+java:S4973l"9Use the "equals" method if value comparison was intended.(¾»àËúÿÿÿÿ8±Õ‘å©/
+}
+java:S1488ş"ZImmediately return this expression instead of assigning it to the temporary variable "br".(Ó•£¹øÿÿÿÿ8¶Õ‘å©/
+M
+java:S1128
+"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¤•å©/
+}
+java:S1450"[Remove the "operandStack" field and declare it as a local variable in the relevant methods.(ÁÑ Æÿÿÿÿÿ8ÉÕ‘å©/
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ğà ïûÿÿÿÿ8ÔÕ‘å©/
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÁÑ Æÿÿÿÿÿ8ÔÕ‘å©/
+]	java:S125"<This block of commented-out lines of code should be removed.(³æïÓÿÿÿÿÿ8…Ö‘å©/
+]	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8†Ö‘å©/
+Q
+java:S6212"/Declare this local variable with "var" instead.(·‹üÿÿÿÿ8¡Ö‘å©/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(àÏ©ûÿÿÿÿ8©Ö‘å©/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(‡ü‡ª8¯Ö‘å©/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(…À¨šıÿÿÿÿ8±Ö‘å©/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(µ»çíıÿÿÿÿ8³Ö‘å©/
+]	java:S1259"<This block of commented-out lines of code should be removed.(… ğøÿÿÿÿ8ÅÖ‘å©/
+8
+java:S3626L"Remove this redundant jump.(ÉŠ©ƒ8ÈÖ‘å©/
+8
+java:S3626O"Remove this redundant jump.(ÉŠ©ƒ8ÈÖ‘å©/
+8
+java:S3626R"Remove this redundant jump.(ÉŠ©ƒ8ÉÖ‘å©/
+8
+java:S3626U"Remove this redundant jump.(ÉŠ©ƒ8ÊÖ‘å©/
+8
+java:S3626X"Remove this redundant jump.(ÉŠ©ƒ8ÊÖ‘å©/
+8
+java:S3626\"Remove this redundant jump.(ÉŠ©ƒ8ËÖ‘å©/
+8
+java:S3626^"Remove this redundant jump.(ÉŠ©ƒ8ÌÖ‘å©/
+O
+java:S1135<"2Complete the task associated to this TODO comment.(¬ÅÈ×8ĞÖ‘å©/
+{
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆòêáùÿÿÿÿ8ÓÖ‘å©/
+L
+java:S6212D"/Declare this local variable with "var" instead.(ğ±Î¢8çÖ‘å©/
+L
+java:S6212F"/Declare this local variable with "var" instead.(¿ÇŒ8èÖ‘å©/
+Q
+java:S6212H"/Declare this local variable with "var" instead.( Ìèıÿÿÿÿ8ÿ×‘å©/
+X	java:S125`"<This block of commented-out lines of code should be removed.(•¿îè8šØ‘å©/
+‰
+java:S1130d"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(À¤š¡8Ø‘å©/
+v
+java:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜÍîŸ8 Ø‘å©/
+v
+java:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(²´ Ö8£Ø‘å©/
+L
+java:S6212i"/Declare this local variable with "var" instead.(´ÿ»À8¦Ø‘å©/
+L
+java:S6212n"/Declare this local variable with "var" instead.(òŸù‹8«Ø‘å©/
+T
+java:S1135m"2Complete the task associated to this TODO comment.(ßû©ıÿÿÿÿ8¬Ø‘å©/
+Q
+java:S6212o"/Declare this local variable with "var" instead.(ùÑêæúÿÿÿÿ8¬Ø‘å©/
+Q
+java:S6212p"/Declare this local variable with "var" instead.(ıŠÃÙøÿÿÿÿ8°Ø‘å©/
+u
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Œ±Ïáşÿÿÿÿ8¹Ø‘å©/
+]
+java:S1854¨":Remove this useless assignment to local variable "second".(åÏÊÛşÿÿÿÿ8ÑØ‘å©/
+W
+java:S1854§"9Remove this useless assignment to local variable "first".(ßÿ²‡8ÒØ‘å©/
+]
+java:S1854¦":Remove this useless assignment to local variable "result".(×Û­®ùÿÿÿÿ8ÒØ‘å©/
+R
+java:S6212¦"/Declare this local variable with "var" instead.(×Û­®ùÿÿÿÿ8ÔØ‘å©/
+M
+java:S6212§"/Declare this local variable with "var" instead.(ßÿ²‡8ÕØ‘å©/
+R
+java:S6212¨"/Declare this local variable with "var" instead.(åÏÊÛşÿÿÿÿ8ÖØ‘å©/
+w
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰±š™8×Ø‘å©/
+U
+java:S1135­"2Complete the task associated to this TODO comment.(¸å¡†úÿÿÿÿ8İØ‘å©/
+U
+java:S1135´"2Complete the task associated to this TODO comment.(¾Æ™øÿÿÿÿ8çØ‘å©/
+U
+java:S1135Õ"2Complete the task associated to this TODO comment.(Î¥Óıÿÿÿÿ8üØ‘å©/
+Y	java:S125ß"<This block of commented-out lines of code should be removed.(º×ÄĞ8ÿØ‘å©/
+p	java:S100è"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜‘ùÈûÿÿÿÿ8‚Ù‘å©/
+p	java:S100ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºéœ¢ÿÿÿÿÿ8…Ù‘å©/
+M
+java:S6212í"/Declare this local variable with "var" instead.(Ä¶¦Ş8‡Ù‘å©/
+M
+java:S6212ğ"/Declare this local variable with "var" instead.(’â‰8ˆÙ‘å©/
+R
+java:S6212õ"/Declare this local variable with "var" instead.(İ¥äàÿÿÿÿÿ8“Ù‘å©/
+R
+java:S6212ş"/Declare this local variable with "var" instead.(Ó•£¹øÿÿÿÿ8™Ù‘å©/
+P
+java:S1144è"-Remove this unused private "st_gamma" method.(˜‘ùÈûÿÿÿÿ8§Ù‘å©/
+R
+java:S1144ü"/Remove this unused private "stringToBR" method.(î®ÄÃøÿÿÿÿ8§Ù‘å©/
+q
+java:S5843D"TSimplify this regular expression to reduce its complexity from 30 to the 20 allowed.(ğ±Î¢8²Ù‘å©/

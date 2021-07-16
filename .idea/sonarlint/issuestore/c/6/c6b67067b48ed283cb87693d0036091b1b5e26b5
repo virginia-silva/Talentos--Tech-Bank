@@ -1,0 +1,30 @@
+
+c
+java:S3973"HUse indentation to denote the code conditionally executed by this "for".(…–¢¹şÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶çÛÎ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñè–÷
+’
+java:S2681"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(¼ÄİÁ
+J
+java:S6212	"/Declare this local variable with "var" instead.(ŠË»Âúÿÿÿÿ
+D
+java:S6212"/Declare this local variable with "var" instead.(È£Æ7
+E
+java:S6212"/Declare this local variable with "var" instead.(Ç•Šó
+N
+java:S1197"8Move the array designator from the variable to the type.(Ç•Šó
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Š§ş²üÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°
+;
+java:S3457"%String contains no format specifiers.(ï«¨°
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ï«¨°
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(›¦‡üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›¦‡üÿÿÿÿ
+l
+java:S3457!"Q%n should be used in place of \n to produce the platform-specific line separator.(›¦‡üÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(›¦‡üÿÿÿÿ
+g
+java:S3457""Q%n should be used in place of \n to produce the platform-specific line separator.(…¼†Ğ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(…¼†Ğ

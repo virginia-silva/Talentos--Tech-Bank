@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì®È¦
+l
+java:S1104"QMake rodas a static final constant or non-public and provide accessors if needed.(é¢°–ÿÿÿÿÿ
+h
+java:S1104"RMake bancos a static final constant or non-public and provide accessors if needed.(¨Ëªë
+n
+java:S1104	"QMake motor a static final constant or non-public and provide accessors if needed.(ÎÖ¾8†©¥©/

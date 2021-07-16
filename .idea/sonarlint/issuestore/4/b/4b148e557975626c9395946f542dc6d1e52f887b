@@ -1,0 +1,24 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯ëíºøÿÿÿÿ
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒÿáñ8Îä¶Û©/
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¯ëíºøÿÿÿÿ8ö½ÛÜ©/
+H
+java:S1172"+Remove this unused method parameter "args".(Çµí‘8ù½ÛÜ©/
+_
+java:S1854"=Remove this useless assignment to local variable "!unknown!".(ÚÓ’âıÿÿÿÿ8¿¹¼Ø©/
+_
+java:S1854"=Remove this useless assignment to local variable "!unknown!".(Å”†øÿÿÿÿ8À¹¼Ø©/
+_
+java:S1854"=Remove this useless assignment to local variable "!unknown!".(íÄ£şÿÿÿÿ8À¹¼Ø©/
+_
+java:S1854	"=Remove this useless assignment to local variable "!unknown!".(‹ñşÿÿÿÿ8Á¹¼Ø©/
+Y
+java:S1854"=Remove this useless assignment to local variable "!unknown!".(˜õ×v8Á¹¼Ø©/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±ëÍ8Å¹¼Ø©/
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(±ëÍ8Ç¹¼Ø©/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±ëÍ8Ê¹¼Ø©/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±ëÍ8Ì¹¼Ø©/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±ëÍ8Î¹¼Ø©/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±ëÍ8Ğ¹¼Ø©/

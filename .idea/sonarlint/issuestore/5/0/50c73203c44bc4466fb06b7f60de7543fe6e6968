@@ -1,0 +1,7 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒÿáñ8„ä¶Û©/
+i
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(€¨óĞ8ú¹½Ø©/
+p
+java:S3008	"SRename this field "Contador" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü§ú8Ûå¸Ø©/
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¨óĞ8Ä¸Ø©/

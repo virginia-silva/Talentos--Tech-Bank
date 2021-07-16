@@ -1,0 +1,82 @@
+
+E
+java:S54110"*Use the primitive boolean expression here.(®œ„ûÿÿÿÿ
+E
+java:S5411J"*Use the primitive boolean expression here.(İñ¤Ìşÿÿÿÿ
+E
+java:S5411d"*Use the primitive boolean expression here.(¸¥¸ªúÿÿÿÿ
+E
+java:S5411k"*Use the primitive boolean expression here.(¶¸›äıÿÿÿÿ
+A
+java:S5411Œ"*Use the primitive boolean expression here.(Œ®‰
+A
+java:S5411œ"*Use the primitive boolean expression here.(äüªú
+F
+java:S5411¯"*Use the primitive boolean expression here.(İñ¤Ìşÿÿÿÿ
+z
+java:S1488è"cImmediately return this expression instead of assigning it to the temporary variable "diaDaSemana".(šë±ö
+U
+java:S1118":Add a private constructor to hide the implicit public one.(—ßŠ¶ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨Æ¯éÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(å¤Â­
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ€Äº
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š¿á‘üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ã¾Ø“úÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ö™ƒşÿÿÿÿ
+c
+java:S4034$"HReplace this "filter().findFirst().isPresent()" chain with "anyMatch()".(©†Åÿÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(âÕõÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(äìÎÆ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(¶ÀÑ´ûÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(‹Ö„×
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(å¤Â­
+M	java:S106M"9Replace this use of System.out or System.err by a logger.(û¢ÔG
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(õËüÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(†’È­úÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(‡…î…
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(ıÜêŞşÿÿÿÿ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(å¤Â­
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(¦‡™Àıÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(ÿ¤ÜØşÿÿÿÿ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(¦µØŒûÿÿÿÿ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(Ôû¶
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(Ïî¢
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(ÎøÁùÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(Ã¾Ø“úÿÿÿÿ
+m
+java:S3776`"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(‚é–£üÿÿÿÿ
+b	java:S128®"LEnd this switch case with an unconditional break, return or throw statement.(Ø¤‘‡
+<	java:S131b""Add a default case to this switch.(†²·¹úÿÿÿÿ
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(ĞÊ‰ùøÿÿÿÿ
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(¿œ·”ÿÿÿÿÿ
+M	java:S106w"9Replace this use of System.out or System.err by a logger.(œ²
+K
+java:S1905{"0Remove this unnecessary cast to "ContaCorrente".(¤í×üÿÿÿÿ
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(ê¿”È
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÂúl
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(ç¼Ù¥ıÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(®Û‚¾
+O	java:S106¤"9Replace this use of System.out or System.err by a logger.(Òı®Ñ
+O	java:S106¨"9Replace this use of System.out or System.err by a logger.(ªóşë
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(¨¸µ¸øÿÿÿÿ
+T	java:S106±"9Replace this use of System.out or System.err by a logger.(ìêíÍşÿÿÿÿ
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(ûíûşüÿÿÿÿ
+T	java:S106µ"9Replace this use of System.out or System.err by a logger.(ñ¤ÓÂüÿÿÿÿ
+O	java:S106Á"9Replace this use of System.out or System.err by a logger.(¹¥÷Ò
+P
+java:S1172Ğ"4Remove this unused method parameter "contaBancaria".(•á¤ùüÿÿÿÿ
+i
+java:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(§Ä­ú
+[
+java:S3358è"DExtract this nested ternary operation into an independent statement.(šë±ö
+[
+java:S3358è"DExtract this nested ternary operation into an independent statement.(šë±ö
+[
+java:S3358è"DExtract this nested ternary operation into an independent statement.(šë±ö
+`
+java:S3358é"DExtract this nested ternary operation into an independent statement.(¿±ê®üÿÿÿÿ
+`
+java:S3358é"DExtract this nested ternary operation into an independent statement.(¿±ê®üÿÿÿÿ
+`
+java:S3358é"DExtract this nested ternary operation into an independent statement.(¿±ê®üÿÿÿÿ

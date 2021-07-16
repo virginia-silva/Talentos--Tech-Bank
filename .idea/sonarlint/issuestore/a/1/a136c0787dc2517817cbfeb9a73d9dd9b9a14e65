@@ -1,0 +1,94 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ùúËˆÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±ÿÂ³úÿÿÿÿ
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ªÇÎš8“Ûê…©/
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çµí‘
+8
+java:S1659	""Declare "nTot" on a separate line.(‡ê³Ï
+8
+java:S1659	""Declare "nCap" on a separate line.(‡ê³Ï
+8
+java:S1659	""Declare "nAux" on a separate line.(‡ê³Ï
+D
+java:S6212
+"/Declare this local variable with "var" instead.(æ™V
+S
+java:S1197"8Move the array designator from the variable to the type.(ãÎÜùÿÿÿÿ
+@
+java:S3457"%String contains no format specifiers.(®ÕÀüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ÕÀüÿÿÿÿ
+@
+java:S3457"%String contains no format specifiers.(øüÚæşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øüÚæşÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(‰ğ£ç
+;
+java:S3457"%String contains no format specifiers.(‰ğ£ç
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰ğ£ç
+:
+java:S3457 "%String contains no format specifiers.(èÛ%
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(èÛ%
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(àí£Ûşÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(”…¼ö
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(˜èñıÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(‰ÀÈ”
+y
+java:S2142@"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¬ñì´ıÿÿÿÿ
+C	java:S108@")Either remove or fill this block of code.(¬ñì´ıÿÿÿÿ
+g
+java:S3457C"Q%n should be used in place of \n to produce the platform-specific line separator.(ÇŞ¢
+;
+java:S3457C"%String contains no format specifiers.(ÇŞ¢
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(ÇŞ¢
+l
+java:S3457G"Q%n should be used in place of \n to produce the platform-specific line separator.(³ã¯óúÿÿÿÿ
+@
+java:S3457G"%String contains no format specifiers.(³ã¯óúÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(³ã¯óúÿÿÿÿ
+l
+java:S3457L"Q%n should be used in place of \n to produce the platform-specific line separator.(ŞëúÖÿÿÿÿÿ
+@
+java:S3457L"%String contains no format specifiers.(ŞëúÖÿÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(ŞëúÖÿÿÿÿÿ
+g
+java:S3457M"Q%n should be used in place of \n to produce the platform-specific line separator.(çÔ¢‘
+;
+java:S3457M"%String contains no format specifiers.(çÔ¢‘
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(çÔ¢‘
+l
+java:S3457N"Q%n should be used in place of \n to produce the platform-specific line separator.(ÀîßÒÿÿÿÿÿ
+@
+java:S3457N"%String contains no format specifiers.(ÀîßÒÿÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(ÀîßÒÿÿÿÿÿ
+l
+java:S3457O"Q%n should be used in place of \n to produce the platform-specific line separator.(‰·’åúÿÿÿÿ
+@
+java:S3457O"%String contains no format specifiers.(‰·’åúÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(‰·’åúÿÿÿÿ
+g
+java:S3457P"Q%n should be used in place of \n to produce the platform-specific line separator.(Ûµ†‘
+;
+java:S3457P"%String contains no format specifiers.(Ûµ†‘
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(Ûµ†‘
+l
+java:S3457Q"Q%n should be used in place of \n to produce the platform-specific line separator.(õì°šüÿÿÿÿ
+@
+java:S3457Q"%String contains no format specifiers.(õì°šüÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(õì°šüÿÿÿÿ
+l
+java:S3457R"Q%n should be used in place of \n to produce the platform-specific line separator.(ïÀ£áÿÿÿÿÿ
+@
+java:S3457R"%String contains no format specifiers.(ïÀ£áÿÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(ïÀ£áÿÿÿÿÿ
+g
+java:S3457S"Q%n should be used in place of \n to produce the platform-specific line separator.(µ©ó¿
+;
+java:S3457S"%String contains no format specifiers.(µ©ó¿
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(µ©ó¿
+g
+java:S3457T"Q%n should be used in place of \n to produce the platform-specific line separator.(æÃÈ—
+;
+java:S3457T"%String contains no format specifiers.(æÃÈ—
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(æÃÈ—

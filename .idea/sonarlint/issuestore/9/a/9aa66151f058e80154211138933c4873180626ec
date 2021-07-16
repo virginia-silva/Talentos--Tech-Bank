@@ -1,0 +1,11 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´™à
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Íçä
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õÛµûÿÿÿÿ
+k	java:S116
+"QRename this field "preÃ§o" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¬ùêøÿÿÿÿ
+h	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÿŒ…ûÿÿÿÿ
+c	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Íçä
+h	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğñµÉúÿÿÿÿ
+l
+java:S3457L"Q%n should be used in place of \n to produce the platform-specific line separator.(™ôŞ¼úÿÿÿÿ

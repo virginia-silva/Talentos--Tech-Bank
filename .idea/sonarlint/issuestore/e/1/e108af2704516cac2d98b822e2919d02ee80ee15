@@ -1,0 +1,85 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(¸àèùÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(Â®ºÂ
+E
+java:S3740"/Provide the parametrized type for this generic.(è¬ì¾
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(« È
+f	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Úò—
+f	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ûÑ×
+k	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¢Ì¢ÿÿÿÿÿ
+k	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤–¹²ýÿÿÿÿ
+f	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ñ§»
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÏêùÿÿÿÿ8­ÂÕê¨/
+v
+java:S1450"[Remove the "agend_altura" field and declare it as a local variable in the relevant methods.(Î®®Üýÿÿÿÿ
+p
+java:S1450
+"ZRemove the "agend_idade" field and declare it as a local variable in the relevant methods.(æ»ìð
+p
+java:S1450"ZRemove the "agend_nomes" field and declare it as a local variable in the relevant methods.(ÍÞ’Ù
+i
+java:S1450	"SRemove the "name" field and declare it as a local variable in the relevant methods.(‹â¨©
+n
+java:S3008"XRename this field "total_pessoas" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÍª¥
+l
+java:S3008
+"VRename this field "agend_idade" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ»ìð
+l
+java:S3008"VRename this field "agend_nomes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÞ’Ù
+r
+java:S3008"WRename this field "agend_altura" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î®®Üýÿÿÿÿ
+n
+java:S3008"SRename this field "set_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸àèùÿÿÿÿ
+h
+java:S3008"RRename this field "set_age" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â®ºÂ
+k
+java:S3008"URename this field "set_altura" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¬ì¾
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¸àèùÿÿÿÿ
+{
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Â®ºÂ
+{
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(è¬ì¾
+N
+java:S1197	"8Move the array designator from the variable to the type.(‹â¨©
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¥¨Ú
+K
+java:S2696"6Make the enclosing method "static" or remove this set.(Õ†x
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(òäžµ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Ãç¶
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¾Öùÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ª¡Ñl
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Þí“éþÿÿÿÿ
+c	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Úò—
+S	java:S106."9Replace this use of System.out or System.err by a logger.(™Ö­ÿÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(–“Ö
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(Ö”¨Ñ
+J
+java:S6212>"/Declare this local variable with "var" instead.(ç½æ“úÿÿÿÿ
+>
+java:S1659K"#Declare "index" on a separate line.(¤–¹²ýÿÿÿÿ
+J
+java:S6212J"/Declare this local variable with "var" instead.(ÂŠÇÕøÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(Ê‰Þ’
+E
+java:S6212P"/Declare this local variable with "var" instead.(¤Ñ§»
+J
+java:S6212U"/Declare this local variable with "var" instead.(¬å†ýÿÿÿÿ
+J
+java:S6212Z"/Declare this local variable with "var" instead.(¬å†ýÿÿÿÿ
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(Ô«éµ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(ÁÀƒÐÿÿÿÿÿ
+M	java:S106f"9Replace this use of System.out or System.err by a logger.(“Üi
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(£ÛØ•
+J
+java:S6212m"/Declare this local variable with "var" instead.(¬å†ýÿÿÿÿ
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(®µ™«
+J
+java:S6212w"/Declare this local variable with "var" instead.(¬å†ýÿÿÿÿ
+J
+java:S6212~"/Declare this local variable with "var" instead.(¬å†ýÿÿÿÿ
+>
+java:S1068	"(Remove this unused "name" private field.(‹â¨©
